@@ -1,3 +1,4 @@
-data/
+data/shapefiles/
+data/imagery/tiles/
 MyProject/
 .claude/
